@@ -1,0 +1,19 @@
+@import url(//db.onlinewebfonts.com/c/efc7a6226bb9d41432255d1553a16c8d?family=VogaW00-Medium);
+
+body {
+  font-family: 'Righteous', cursive;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+footer {
+  background: grey;
+  color: white;
+  padding-top: 2.7vh;
+}
+
+.row {
+  margin: 0;
+}
