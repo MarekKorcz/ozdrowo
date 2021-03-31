@@ -26,5 +26,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     let today = new Date().getFullYear() 
 
-    document.getElementById('copyright').innerHTML = `&copy; ${today} OZDROWO. Wszelkie prawa zastrzeżone`
+    document.getElementById('copyright').innerHTML = `&copy; 2018 - ${today} OZDROWO. Wszelkie prawa zastrzeżone`
 })

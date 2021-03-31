@@ -5,9 +5,32 @@
     <!-- add styles -->
     <link rel="stylesheet" type="text/css" href="{{ asset('css/home.css') }}">
 
-    <div style="height: 15vh;"></div>
+    <div id="mainimage">
+      <img src="img/homepage_mainimage.jpg">
+      <div>Blog z holistycznym spojrzeniem na życie</div>
+    </div>
 
     <div class="container">
+      <div id="socialmedias" class="row">
+        <div class="offset-3"></div>
+          <div class="col-2">
+            <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </div>
+          <div class="col-2">
+            <a id="instagram" class="nav-link" href="https://www.instagram.com/ozdrowo_blog/" target="_blank">
+              <i class="fa fa-instagram"></i>
+            </a>
+          </div>
+          <div class="col-2">
+            <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </div>
+        <div class="offset-3"></div>
+      </div>
+
       <!-- Health post section -->
       <div class="heading">
         <button>Zdrowie</button>

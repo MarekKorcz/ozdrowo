@@ -1,14 +1,42 @@
+#mainimage {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#mainimage div {
+  position: absolute;
+  top: 58%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5.7vw;
+  text-shadow: gray .09vw .09vw;
+}
+
+#socialmedias {
+  text-align: center;
+  font-size: 4.2vw;
+  padding: 3.3vw 0 3.3vw 0;
+}
+
+#socialmedias i {
+  color: green;
+}
+
 .heading {
   border-bottom: 1px green solid;
   margin-bottom: 1.2rem;
+  margin-top: .9vw;
 }
 
 .heading button {
   padding: 0;
   border: none;
   background: none;
-  font-size: 2.4rem;
+  font-size: 5.1vw;
   margin-bottom: 1.8rem;
+  padding-left: 3vw;
+  text-shadow: green .15vw .15vw;
 }
 
 .post {

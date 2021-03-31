@@ -37,14 +37,14 @@
                 <li><a href="#">Umysł</a></li>
                 <li><a href="#">Uroda</a></li>
                 <li>
-                <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
-                    <i class="fa fa-facebook" style="font-size: 29px;"></i>
-                </a>
+                    <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
+                        <i class="fa fa-facebook" style="font-size: 29px;"></i>
+                    </a>
                 </li>
                 <li>
-                <a id="instagram" class="nav-link" href="https://www.instagram.com/ozdrowo_blog/" target="_blank">
-                    <i class="fa fa-instagram" style="font-size: 30px;"></i>
-                </a>
+                    <a id="instagram" class="nav-link" href="https://www.instagram.com/ozdrowo_blog/" target="_blank">
+                        <i class="fa fa-instagram" style="font-size: 30px;"></i>
+                    </a>
                 </li>
             </ul>
             <div class="burger">
