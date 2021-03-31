@@ -34,8 +34,8 @@
             </div>
             <ul class="nav-links">
                 <li><a href="#">Zdrowie</a></li>
+                <li><a href="#">Umysł</a></li>
                 <li><a href="#">Uroda</a></li>
-                <li><a href="#">Psychologia</a></li>
                 <li>
                 <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
                     <i class="fa fa-facebook" style="font-size: 29px;"></i>
