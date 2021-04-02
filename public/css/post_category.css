@@ -1,0 +1,8 @@
+.heading {
+  border-bottom: 1px green solid;
+  padding-left: 3vw;
+  margin: .9vw 0 3vw 0;
+  font-size: 3.9vw;
+  color: rgb(99, 96, 96);
+  text-shadow: grey .15vw .15vw;
+}

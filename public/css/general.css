@@ -4,7 +4,12 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-a, a:hover {
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
   text-decoration: none;
 }
 
@@ -16,4 +21,71 @@ footer {
 
 .row {
   margin: 0;
+}
+
+i:hover {
+  color: green !important;
+}
+
+.nav-links i.fa-facebook:hover {
+  color: #3b5998 !important;
+}
+
+.nav-links i.fa-instagram:hover {
+  color: #fd1d1d !important;
+}
+
+.nav-links i.fa-twitter:hover {
+  color: #1da1f2 !important;
+}
+
+.post {
+  min-height: 51vh;
+  padding: 1rem;
+}
+
+.content {
+  border: lightgray 1px solid;
+}
+
+.content > div {
+  padding: 0 1.2rem 0 1.2rem;
+}
+
+.header {
+  margin-top: .9rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.category {
+  margin-top: .5rem;
+}
+
+.category i {
+  padding: 0 .4rem 0 .3rem;
+}
+
+.text {
+  margin-top: 1.5rem;
+}
+
+.cta-btn {
+  margin: .9rem 0 .9rem .3rem;
+}
+
+.cta-btn button {
+  padding: 0;
+  border: none;
+  background: none;
+  font-size: 1rem;
+  color: green;
+  border-bottom: 1px solid green;
+  padding-bottom: 3px;
+  font-weight: 700;
+}
+
+.cta-btn i {
+  font-size: 1rem;
 }

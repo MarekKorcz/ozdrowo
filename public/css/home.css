@@ -24,68 +24,18 @@
 }
 
 .heading {
-  border-bottom: 1px green solid;
   margin-bottom: 1.2rem;
   margin-top: .9vw;
 }
 
-.heading button {
-  padding: 0;
-  border: none;
-  background: none;
-  font-size: 5.1vw;
+.heading a {
+  font-size: 3.9vw;
   margin-bottom: 1.8rem;
   padding-left: 3vw;
-  text-shadow: green .15vw .15vw;
+  text-shadow: grey .15vw .15vw;
+  color: rgb(99, 96, 96);
 }
 
-.post {
-  min-height: 51vh;
-  padding: 1rem;
-}
-
-.content {
-  border: lightgray 1px solid;
-}
-
-.content > div {
-  padding: 0 1.2rem 0 1.2rem;
-}
-
-.header {
-  margin-top: .9rem;
-  font-size: 1.4rem;
-  font-weight: 700;
-  line-height: 1.2;
-}
-
-.category {
-  margin-top: .5rem;
-}
-
-.category i {
-  padding: 0 .4rem 0 .3rem;
-}
-
-.text {
-  margin-top: 1.5rem;
-}
-
-.cta-btn {
-  margin: .9rem 0 .9rem .3rem;
-}
-
-.cta-btn button {
-  padding: 0;
-  border: none;
-  background: none;
-  font-size: 1rem;
+.heading a:hover {
   color: green;
-  border-bottom: 1px solid green;
-  padding-bottom: 3px;
-  font-weight: 700;
-}
-
-.cta-btn i {
-  font-size: 1rem;
 }

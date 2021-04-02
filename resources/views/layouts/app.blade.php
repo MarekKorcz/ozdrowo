@@ -33,9 +33,9 @@
                 </h4>
             </div>
             <ul class="nav-links">
-                <li><a href="#">Zdrowie</a></li>
-                <li><a href="#">Umysł</a></li>
-                <li><a href="#">Uroda</a></li>
+                <li><a href="/health">Zdrowie</a></li>
+                <li><a href="/mind">Umysł</a></li>
+                <li><a href="/beauty">Uroda</a></li>
                 <li>
                     <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
                         <i class="fa fa-facebook" style="font-size: 29px;"></i>
@@ -44,6 +44,11 @@
                 <li>
                     <a id="instagram" class="nav-link" href="https://www.instagram.com/ozdrowo_blog/" target="_blank">
                         <i class="fa fa-instagram" style="font-size: 30px;"></i>
+                    </a>
+                </li>
+                <li>
+                    <a id="twitter" class="nav-link" href="https://www.instagram.com/ozdrowo_blog/" target="_blank">
+                        <i class="fa fa-twitter" style="font-size: 30px;"></i>
                     </a>
                 </li>
             </ul>

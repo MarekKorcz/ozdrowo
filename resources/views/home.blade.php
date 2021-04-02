@@ -8,32 +8,33 @@
     <div id="mainimage">
       <img src="img/homepage_mainimage.jpg">
       <div>Blog z holistycznym spojrzeniem na życie</div>
-    </div>
+    </div>    
 
     <div class="container">
       <div id="socialmedias" class="row">
         <div class="offset-3"></div>
           <div class="col-2">
             <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
-              <i class="fa fa-facebook"></i>
+              <i class="fa fa-facebook" style="color: #3b5998;"></i>
             </a>
           </div>
           <div class="col-2">
             <a id="instagram" class="nav-link" href="https://www.instagram.com/ozdrowo_blog/" target="_blank">
-              <i class="fa fa-instagram"></i>
+              <i class="fa fa-instagram" style="color: #fd1d1d;"></i>
             </a>
           </div>
           <div class="col-2">
             <a id="facebook" class="nav-link" href="https://www.facebook.com/OZDROWO" target="_blank">
-              <i class="fa fa-facebook"></i>
+              <i class="fa fa-twitter" style="color: #1da1f2;"></i>
             </a>
           </div>
         <div class="offset-3"></div>
       </div>
 
       <!-- Health post section -->
+      <hr>
       <div class="heading">
-        <button>Zdrowie</button>
+        <a href="/health" target="_blank">Zdrowie</a>
       </div>
       <div class="row">
         <div class="post col-12 col-md-4">
@@ -101,8 +102,9 @@
         </div>
       </div>
       <!-- Mind post section -->
+      <hr>
       <div class="heading">
-        <button>Umysł</button>
+        <a href="/mind" target="_blank">Umysł</a>
       </div>
       <div class="row">
         <div class="post col-12 col-md-4">
@@ -170,8 +172,9 @@
         </div>
       </div>
       <!-- Beauty post section -->
+      <hr>
       <div class="heading">
-        <button>Uroda</button>
+        <a href="/beauty" target="_blank">Uroda</a>
       </div>
       <div class="row">
         <div class="post col-12 col-md-4">
@@ -239,5 +242,7 @@
         </div>
       </div>
     </div>
+
+    <div style="padding-bottom: 6rem;"></div>
     
 @endsection
